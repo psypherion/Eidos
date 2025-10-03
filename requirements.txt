@@ -1,1 +1,5 @@
 git+https://github.com/psypherion/kagglefetcher.git#egg=kagglefetcher
+numpy
+Pillow
+tqdm
+pandas
