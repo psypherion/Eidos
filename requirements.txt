@@ -1,0 +1,1 @@
+git+https://github.com/psypherion/kagglefetcher.git#egg=kagglefetcher
