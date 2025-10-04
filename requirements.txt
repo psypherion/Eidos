@@ -3,3 +3,4 @@ numpy
 Pillow
 tqdm
 pandas
+scikit-learn
